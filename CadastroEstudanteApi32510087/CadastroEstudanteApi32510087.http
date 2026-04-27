@@ -1,0 +1,6 @@
+@CadastroEstudanteApi32510087_HostAddress = http://localhost:5092
+
+GET {{CadastroEstudanteApi32510087_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
